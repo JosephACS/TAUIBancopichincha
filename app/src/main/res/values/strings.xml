@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="version">Versión: 9.5.0</string>
+    <string name="security_text">Cuida tus contraseñas, no las compartas con nadie.</string>
+    <string name="option_user">Usuario y\ncontraseña</string>
+    <string name="option_fingerprint">Huella /\nFace ID</string>
+    <string name="option_pin">Pin de\n6 dígitos</string>
+    <string name="link_location">Ubícanos</string>
+    <string name="link_key">Clave\ndigital</string>
+    <string name="link_phone">Llámanos</string>
+    <string name="other_user">¿Ingresar con otro usuario?</string>
+</resources>
