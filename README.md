@@ -35,6 +35,7 @@ Elaborar el Diseño Responsivo del Inicio de Sesión de una Aplicación Móvil d
 | Target SDK | API 34 (Android 14) | SDK objetivo |
 
 ---
+```
 
 ##  Estructura del Proyecto
 TAUIBancopichincha/
@@ -80,7 +81,7 @@ TAUIBancopichincha/
 | Clave digital | Generador de clave |
 | Llámanos | Contacto telefónico |
 | Otro usuario | Cambio de usuario |
-
+```
 ---
 
 ## Capturas
