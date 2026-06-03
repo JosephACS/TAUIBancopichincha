@@ -64,6 +64,7 @@ TAUIBancopichincha/
 │                   ├── strings.xml
 │                   └── themes.xml
 └── README.md
+```
 
 ---
 ## Componentes de la Pantalla
@@ -81,7 +82,6 @@ TAUIBancopichincha/
 | Clave digital | Generador de clave |
 | Llámanos | Contacto telefónico |
 | Otro usuario | Cambio de usuario |
-```
 ---
 
 ## Capturas
